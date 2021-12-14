@@ -1,3 +1,13 @@
 *.CKI
 *.CKT
 *.TRC
+*.out
+*.log
+*.dat
+*.txt
+*.sh
+*.py
+*.cti
+*.ck
+__pycache__
+reduction_input.yaml
